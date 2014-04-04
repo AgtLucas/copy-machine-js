@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/copy-machine-js/issues"
   },
-  "homepage": "https://github.com/AgtLucas/copy-machine-js"
+  "homepage": "https://github.com/AgtLucas/copy-machine-js",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
