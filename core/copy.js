@@ -1,0 +1,7 @@
+/**
+ * Copy
+ *
+ * Parameters
+ */
+
+var copy = {};
