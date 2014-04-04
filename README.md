@@ -1,2 +1,1 @@
-copy-machine-js
-===============
+Copy Machine
