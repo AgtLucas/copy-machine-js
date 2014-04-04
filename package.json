@@ -1,0 +1,19 @@
+{
+  "name": "copy-machine-js",
+  "version": "0.0.0",
+  "description": "Nothing at all",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AgtLucas/copy-machine-js.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgtLucas/copy-machine-js/issues"
+  },
+  "homepage": "https://github.com/AgtLucas/copy-machine-js"
+}
